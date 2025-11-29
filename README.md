@@ -13,7 +13,7 @@ I work mainly on the web side of full-stack development and build websites, web 
 
 A lot of my work revolves around API development, backend logic, automation, and building various bots—especially Discord bots and tools that help automate tasks or connect different services.
 
-I’m comfortable working with Vercel, AWS, and DigitalOcean, and I handle deployment setups, hosting, and server configuration. I like creating simple, scalable structures that perform reliably in real-world use.
+I’m comfortable working with Vercel, AWS, and Oracle, and I handle deployment setups, hosting, and server configuration. I like creating simple, scalable structures that perform reliably in real-world use.
 
 If you’re interested in full-stack projects, custom APIs, automation scripts, or bot development, feel free to explore my repositories or reach out!
 

@@ -9,13 +9,13 @@
 
 ## About Me
 
-I’m a full-stack developer who mainly works on the web side of things. I build websites, web apps, and backend systems using Next.js, Node.js, TypeScript, JavaScript, Python, and PHP. I also work on Windows applications and automation tools, including scripts for both Windows and Linux.
+I work mainly on the web side of full-stack development and build websites, web apps, and backend systems using Next.js, Node.js, TypeScript, JavaScript, Python, and PHP. I also develop Windows applications and automation tools, including scripts for both Windows and Linux.
 
-Most of my work focuses on building APIs, backend logic, and automation systems. I also create a lot of bots, especially Discord bots, and tools that automate daily tasks or connect different platforms together.
+A lot of my work revolves around API development, backend logic, automation, and building various bots—especially Discord bots and tools that help automate tasks or connect different services.
 
-I’m comfortable with cloud platforms like Vercel, AWS, and DigitalOcean, and I handle deployments, hosting setups, and server configurations. I enjoy designing simple, scalable structures that work well in real-world use.
+I’m comfortable working with Vercel, AWS, and DigitalOcean, and I handle deployment setups, hosting, and server configuration. I like creating simple, scalable structures that perform reliably in real-world use.
 
-If you need a full-stack website, a custom API, an automation script, or a Discord bot, I can build it from start to finish.
+If you’re interested in full-stack projects, custom APIs, automation scripts, or bot development, feel free to explore my repositories or reach out!
 
 ---
 

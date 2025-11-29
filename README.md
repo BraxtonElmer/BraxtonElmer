@@ -9,10 +9,13 @@
 
 ## About Me
 
-I’m a full-stack developer with hands-on experience across web development, backend engineering, AI automation, cloud server management, and robotics.  
-My work ranges from building production-ready web tools and Discord bots to designing distributed systems, analysis platforms, and embedded hardware projects.
+I’m a full-stack developer who mainly works on the web side of things. I build websites, web apps, and backend systems using Next.js, Node.js, TypeScript, JavaScript, Python, and PHP. I also work on Windows applications and automation tools, including scripts for both Windows and Linux.
 
-I like working with scalable architectures, Linux systems, APIs, web applications, and automation workflows.
+Most of my work focuses on building APIs, backend logic, and automation systems. I also create a lot of bots, especially Discord bots, and tools that automate daily tasks or connect different platforms together.
+
+I’m comfortable with cloud platforms like Vercel, AWS, and DigitalOcean, and I handle deployments, hosting setups, and server configurations. I enjoy designing simple, scalable structures that work well in real-world use.
+
+If you need a full-stack website, a custom API, an automation script, or a Discord bot, I can build it from start to finish.
 
 ---
 
